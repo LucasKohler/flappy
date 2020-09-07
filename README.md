@@ -1,2 +1,2 @@
 # flappy
-Um flappy bird simples usando javascript
+Um flappy bird simples contruído com html, css e javascript.
